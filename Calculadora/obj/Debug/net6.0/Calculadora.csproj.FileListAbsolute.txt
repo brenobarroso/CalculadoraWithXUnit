@@ -1,0 +1,15 @@
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/bin/Debug/net6.0/Calculadora
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/bin/Debug/net6.0/Calculadora.deps.json
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/bin/Debug/net6.0/Calculadora.runtimeconfig.json
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/bin/Debug/net6.0/Calculadora.dll
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/bin/Debug/net6.0/Calculadora.pdb
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/obj/Debug/net6.0/Calculadora.csproj.AssemblyReference.cache
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfoInputs.cache
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfo.cs
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/obj/Debug/net6.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/obj/Debug/net6.0/Calculadora.dll
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/obj/Debug/net6.0/refint/Calculadora.dll
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/obj/Debug/net6.0/Calculadora.pdb
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/obj/Debug/net6.0/Calculadora.genruntimeconfig.cache
+/home/pagcerto/Documents/dev/ProjetoDeTestes/Calculadora/obj/Debug/net6.0/ref/Calculadora.dll
